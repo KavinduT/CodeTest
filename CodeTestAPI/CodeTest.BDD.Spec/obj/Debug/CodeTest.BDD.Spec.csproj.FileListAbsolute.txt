@@ -1,0 +1,10 @@
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\CodeTest.BDD.Spec.dll.config
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\CodeTest.BDD.Spec.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\CodeTest.BDD.Spec.pdb
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\Newtonsoft.Json.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\TechTalk.SpecFlow.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\bin\Debug\Newtonsoft.Json.xml
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\obj\Debug\CodeTest.BDD.Spec.csprojResolveAssemblyReference.cache
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\obj\Debug\CodeTest.BDD.Spec.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.BDD.Spec\obj\Debug\CodeTest.BDD.Spec.pdb

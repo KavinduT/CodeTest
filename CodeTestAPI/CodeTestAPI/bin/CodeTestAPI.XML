@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodeTestAPI</name>
+    </assembly>
+    <members>
+        <member name="T:CodeTest.API.Controllers.ActorsController">
+            <summary>
+            This controller class implement the actions to
+            1. Consume another service which return movie data
+            2. Manipulate/map DTO to Model and Model to DTO 
+            3. Interface for a Restful API
+            </summary>
+        </member>
+        <member name="M:CodeTest.API.Controllers.ActorsController.#ctor">
+            <summary>
+            Initialize the dependent instances.
+            TODO: Introduce dependency injection for these object instantiation.
+            </summary>
+        </member>
+        <member name="M:CodeTest.API.Controllers.ActorsController.Get">
+            <summary>
+            Get a list of actors with the movie characters they were played in the movies. The movie characters are sorted by movie name.
+            </summary>
+            <returns>A list of actors</returns>
+        </member>
+    </members>
+</doc>

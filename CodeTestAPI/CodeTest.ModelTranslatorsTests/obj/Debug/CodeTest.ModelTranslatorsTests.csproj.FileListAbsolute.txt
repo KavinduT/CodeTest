@@ -1,0 +1,12 @@
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\CodeTest.ModelTranslatorsTests.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\CodeTest.ModelTranslatorsTests.pdb
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\CodeTest.Models.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\CodeTest.ModelTranslators.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\AutoMapper.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\CodeTest.Models.pdb
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\CodeTest.ModelTranslators.pdb
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\bin\Debug\AutoMapper.xml
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\obj\Debug\CodeTest.ModelTranslatorsTests.csprojResolveAssemblyReference.cache
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\obj\Debug\CodeTest.ModelTranslatorsTests.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.ModelTranslatorsTests\obj\Debug\CodeTest.ModelTranslatorsTests.pdb

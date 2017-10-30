@@ -1,0 +1,5 @@
+C:\Alinta demo\CodeTestAPI\CodeTest.Constants\bin\Debug\CodeTest.Constants.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.Constants\bin\Debug\CodeTest.Constants.pdb
+C:\Alinta demo\CodeTestAPI\CodeTest.Constants\obj\Debug\CodeTest.Constants.csprojResolveAssemblyReference.cache
+C:\Alinta demo\CodeTestAPI\CodeTest.Constants\obj\Debug\CodeTest.Constants.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.Constants\obj\Debug\CodeTest.Constants.pdb

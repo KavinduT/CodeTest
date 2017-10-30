@@ -1,0 +1,4 @@
+C:\Alinta demo\CodeTestAPI\CodeTest.Models\bin\Debug\CodeTest.Models.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.Models\bin\Debug\CodeTest.Models.pdb
+C:\Alinta demo\CodeTestAPI\CodeTest.Models\obj\Debug\CodeTest.Models.dll
+C:\Alinta demo\CodeTestAPI\CodeTest.Models\obj\Debug\CodeTest.Models.pdb
